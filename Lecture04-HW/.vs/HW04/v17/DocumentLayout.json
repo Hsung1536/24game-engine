@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sakak\\source\\repos\\HW04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E823B8D7-4A41-47B1-AB14-7D410280B296}|HW04\\HW04.vcxproj|C:\\Users\\sakak\\source\\repos\\HW04\\HW04\\HW04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E823B8D7-4A41-47B1-AB14-7D410280B296}|HW04\\HW04.vcxproj|solutionrelative:HW04\\HW04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E823B8D7-4A41-47B1-AB14-7D410280B296}|HW04\\HW04.vcxproj|C:\\USERS\\SAKAK\\SOURCE\\REPOS\\HW04\\PACKAGES\\GLFW.3.4.0\\BUILD\\NATIVE\\INCLUDE\\GLFW\\GLFW3.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E823B8D7-4A41-47B1-AB14-7D410280B296}|HW04\\HW04.vcxproj|solutionrelative:PACKAGES\\GLFW.3.4.0\\BUILD\\NATIVE\\INCLUDE\\GLFW\\GLFW3.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "glfw3.h",
+              "DocumentMoniker": "C:\\Users\\sakak\\source\\repos\\HW04\\packages\\glfw.3.4.0\\build\\native\\include\\GLFW\\glfw3.h",
+              "RelativeDocumentMoniker": "packages\\glfw.3.4.0\\build\\native\\include\\GLFW\\glfw3.h",
+              "ToolTip": "C:\\Users\\sakak\\source\\repos\\HW04\\packages\\glfw.3.4.0\\build\\native\\include\\GLFW\\glfw3.h",
+              "RelativeToolTip": "packages\\glfw.3.4.0\\build\\native\\include\\GLFW\\glfw3.h",
+              "ViewState": "AQIAAHcMAAAAAAAAAAAQwKIMAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-27T01:38:56.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HW04.cpp",
+              "DocumentMoniker": "C:\\Users\\sakak\\source\\repos\\HW04\\HW04\\HW04.cpp",
+              "RelativeDocumentMoniker": "HW04\\HW04.cpp",
+              "ToolTip": "C:\\Users\\sakak\\source\\repos\\HW04\\HW04\\HW04.cpp",
+              "RelativeToolTip": "HW04\\HW04.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-27T00:45:47.747Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
