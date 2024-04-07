@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sakak\\source\\repos\\HW0005\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4305BD78-FDEA-456A-A8BF-3FFB93622AD3}|HW0005\\HW0005.vcxproj|C:\\Users\\sakak\\source\\repos\\HW0005\\HW0005\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4305BD78-FDEA-456A-A8BF-3FFB93622AD3}|HW0005\\HW0005.vcxproj|solutionrelative:HW0005\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "C:\\Users\\sakak\\source\\repos\\HW0005\\HW0005\\FileName.cpp",
+              "RelativeDocumentMoniker": "HW0005\\FileName.cpp",
+              "ToolTip": "C:\\Users\\sakak\\source\\repos\\HW0005\\HW0005\\FileName.cpp",
+              "RelativeToolTip": "HW0005\\FileName.cpp",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAkwKEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-07T09:55:16.179Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
